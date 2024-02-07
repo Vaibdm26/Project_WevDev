@@ -58,7 +58,7 @@ if (isset($_POST['Login'])) {
 
     // Checking if there's at least one row
     if (mysqli_num_rows($result) == 1) {
-        header("location: index.php");
+        header("location: Iindex.php");
     } else {
         $error = 'EmailID or Password is Incorrect';
     }
