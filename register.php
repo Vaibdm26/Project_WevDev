@@ -15,7 +15,7 @@
         margin-left: 25em;
         margin-right: 25em;
         padding: 15px;
-        box-shadow: 8px 8px 8px 8px #888888;
+        box-shadow: 4px 4px 4px 4px #888888;
       }
     </style>
     <title>Register</title>
